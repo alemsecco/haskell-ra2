@@ -4,10 +4,10 @@
 **Disciplina:** Programação Lógica e Funcional   
 
 **Integrantes do Grupo:**
-1. Alex Menegatti Secco - GitHub: [@alemsecco]
-2. Bruno Betiatto Alves - GitHub: [@Brunobetiatto]
-3. Mariana de Castro - GitHub: [@maricastroo]
-4. Vitor Rodrigues Izidoro - GitHub: [@Vitor-Izidoro]
+1. Alex Menegatti Secco - GitHub: [@alemsecco](https://github.com/alemsecco)
+2. Bruno Betiatto Alves - GitHub: [@Brunobetiatto](https://github.com/Brunobetiatto)
+3. Mariana de Castro - GitHub: [@maricastroo](https://github.com/maricastroo)
+4. Vitor Rodrigues Izidoro - GitHub: [@Vitor-Izidoro](https://github.com/Vitor-Izidoro)
 
 ## Ambiente de Execução
 **Link para o código executável:** https://onlinegdb.com/oHbG4vAH7
