@@ -1,0 +1,9 @@
+*.hi
+*.o
+
+# Local executable produced by GHC.
+sistema_inventario
+
+# Local runtime data.
+*.log
+*.dat
